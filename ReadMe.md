@@ -13,6 +13,6 @@ Python Developer with a strong focus on Machine Learning
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thebanday&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/BandayMajid) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/paypal.me/BandayMajid) 
 
   
